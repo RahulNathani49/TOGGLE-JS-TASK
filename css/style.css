@@ -1,11 +1,10 @@
-body{
-    background-color: gray;
-}
+
 .box{
     width: 100%;
     height: 200px;
     background-color: aqua;
     border:1px solid black;
+    cursor:pointer;
 }
 .box h1{
     line-height: 200px;
